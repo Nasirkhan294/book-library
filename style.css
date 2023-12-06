@@ -11,18 +11,21 @@ body {
     font-size: 16px;
     height: 100vh;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .flex {
     display: flex;
-    align-items: center;
 }
 
 header {
     justify-content: space-between;
+    align-items: center;
     padding: 1rem 8rem;
-    box-shadow: -5px 10px 15px #666668;
-    background-color: #A8A8A8;
+    box-shadow: -5px 4px 12px #666668;
+    background-color: #cccaca;
 }
 
 header h1 {
@@ -35,10 +38,13 @@ footer {
 }
 
 main {
-    height: 85%;
+    height: 86%;
+    align-items: flex-start;
+    padding-top: 3rem;
 }
 
 footer {
+    align-items: center;
     font-size: 1.2rem;
     color: #505052;
     font-weight: 700;
@@ -46,7 +52,7 @@ footer {
 
 .btn {
     width: 6.5rem;
-    height: 2.3rem;
+    height: 2.5rem;
     border: none;
     outline: none;
     border-radius: 0.5rem;
