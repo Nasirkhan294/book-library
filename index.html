@@ -1,27 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Book Library</title>
-    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <header class="flex">
-        <div class="logo">
-            <h1>📖 Library</h1>
-        </div>
-        <div class="login">
-            <button type="button" class="btn">Login</button>
-        </div>
+      <div class="logo">
+        <h1>📖 Library</h1>
+      </div>
+      <div class="login">
+        <button type="button" class="btn">Login</button>
+      </div>
     </header>
     <main class="flex">
-        <ul></ul>
-        <button type="submit" class="btn">+ Add Book</button>
+      <ul></ul>
+      <button type="submit" class="btn">+ Add Book</button>
+      <form action="#" method="post">
+        <h2>Add new book</h2>
+        <input type="text" placeholder="Title" />
+        <input type="text" placeholder="Author" />
+        <input type="number" placeholder="Pages" />
+        <div class="is-read  flex">
+          <label for="is-read">Have you read this book?</label>
+          <input type="checkbox" name="isRead" id="isRead">
+        </div>
+        <button type="submit" class="btn">Submit</button>
+      </form>
     </main>
     <footer class="flex">
-        <p>© Nasir Mahmood. All Rights Reserved.</p>
+      <p>© Nasir Mahmood. All Rights Reserved.</p>
     </footer>
-</body>
+  </body>
 </html>

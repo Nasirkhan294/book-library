@@ -32,18 +32,20 @@ header h1 {
     color: #505052;
 }
 
-main,
-footer {
-    justify-content: center;
-}
-
 main {
     height: 86%;
-    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
     padding-top: 3rem;
 }
 
+ul {
+    margin: 2rem auto;
+}
+
 footer {
+    justify-content: center;
     align-items: center;
     font-size: 1.2rem;
     color: #505052;
@@ -65,4 +67,19 @@ footer {
 
 .btn:hover {
     background-color: #333333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 50%;
+}
+
+
+form .is-read {
+    justify-content: space-between;
+    width: 53%;
 }
