@@ -95,14 +95,14 @@ form input, button {
 
 form button {
     width: 85%;
-    background-color: #080;
+    background-color: #78e978;
     color: #333333;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
 }
 
 form button:hover {
-    background-color: #085e08;
+    background-color: #0b7a0b;
     color: #fff;
 }
 
