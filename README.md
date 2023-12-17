@@ -13,3 +13,10 @@ This project employs Object-Oriented Programming (OOP) principles to create an i
     <li>CSS3</li>
     <li>JAVASCRIPT</li>
   </ul>
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- [x] **JavaScript classes**
+- [x] **Basic UI**
+- [x] **Preserve Data**
