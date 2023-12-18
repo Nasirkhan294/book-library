@@ -20,3 +20,20 @@ This project employs Object-Oriented Programming (OOP) principles to create an i
 - [x] **JavaScript classes**
 - [x] **Basic UI**
 - [x] **Preserve Data**
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+To run this project you need:
+  * A basic understanding of Git
+### Usage  
+ 1. Clone this repo 
+```
+git clone git@github.com:Nasirkhan294/book-library.git
+```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
