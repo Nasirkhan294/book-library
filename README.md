@@ -35,5 +35,16 @@ To run this project you need:
 git clone git@github.com:Nasirkhan294/book-library.git
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Nasir Mahmood**
+
+- GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
+- Twitter: [NasirMa35888225](https://twitter.com/NasirMa35888225)
+- LinkedIn: [nasirmahd](https://www.linkedin.com/in/nasirmahd/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
