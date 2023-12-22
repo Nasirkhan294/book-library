@@ -66,3 +66,19 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Please support this project and be a part of something meaningful and impactful. Your contribution can make a significant difference and help us achieve our goals faster.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Grateful to all for inspiring codebase, your dedication and creativity made a lasting impact on our success. Thank you!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
