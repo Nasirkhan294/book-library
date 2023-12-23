@@ -19,21 +19,42 @@
     <main class="flex">
       <ul></ul>
       <button type="submit" class="btn add-btn">+ Add Book</button>
-      <form action="#" method="post">
-        <h2>Add new book</h2>
-        <input type="text" placeholder="Title" />
-        <input type="text" placeholder="Author" />
-        <input type="number" placeholder="Pages" />
-        <div class="is-read  flex">
-          <label for="is-read">Have you read this book?</label>
-          <input type="checkbox" name="isRead" id="isRead">
-        </div>
-        <button type="submit" class="submit-btn">Submit</button>
-      </form>
     </main>
     <footer class="flex">
-      <p>© Nasir Mahmood. All Rights Reserved.</p>
+      <p>© Copyrights 2024.</p>
     </footer>
+    <form>
+      <h2>Add new book</h2>
+      <input
+        class="input"
+        type="text"
+        id="title"
+        placeholder="Title"
+        required
+        maxlength="100"
+      />
+      <input
+        class="input"
+        type="text"
+        id="author"
+        placeholder="Author"
+        required
+        maxlength="100"
+      />
+      <input
+        class="input"
+        type="number"
+        id="pages"
+        placeholder="Pages"
+        required
+        max="10000"
+      />
+      <div class="is-read flex">
+        <label for="is-read">Have you read this book?</label>
+        <input type="checkbox" name="isRead" id="isRead" />
+      </div>
+      <button type="submit" class="submit-btn">Submit</button>
+    </form>
     <script src="script.js"></script>
   </body>
 </html>

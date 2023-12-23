@@ -79,6 +79,13 @@ form {
     padding: 1rem;
     margin-top: 1rem;
     border-radius: 0.5rem;
+    position: absolute;
+    top: 8rem;
+    left: 40%;
+}
+
+.form.active {
+    display: flex;
 }
 
 form h2 {
