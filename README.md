@@ -54,6 +54,7 @@ git clone git@github.com:Nasirkhan294/book-library.git
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Advance UI**
+- [ ] **Authorization**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
