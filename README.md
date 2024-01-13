@@ -54,6 +54,7 @@ git clone git@github.com:Nasirkhan294/book-library.git
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Advance UI**
+<!-- [ ] **Authorization** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,3 +83,25 @@ Please support this project and be a part of something meaningful and impactful.
 Grateful to all for inspiring codebase, your dedication and creativity made a lasting impact on our success. Thank you!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## :question: FAQ <a name="faq"></a>
+
+- **Can I fork and reuse this repository?**
+
+Absolutely! Please feel free to fork and reuse this repository for your own projects.
+
+- **Is it okay to improve this repository? Will my changes be accepted?**
+
+Definitely! We welcome any improvements or new ideas you may have. If your changes are good and align with the project's goals, we would be happy to accept them.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
