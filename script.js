@@ -1,4 +1,5 @@
 const addbook = document.querySelector('.add-btn');
+const close = document.querySelector('.fa-times');
 const form = document.querySelector('form');
 
 
@@ -14,4 +15,4 @@ const hideAddBookForm = () => {
 }
 
 addbook.addEventListener('click', showAddBookForm);
-form.addEventListener('click', hideAddBookForm);
+close.addEventListener('click', hideAddBookForm);

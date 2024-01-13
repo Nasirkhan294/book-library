@@ -125,3 +125,14 @@ form #isRead {
     height: 1rem;
     accent-color: #080;
 }
+
+.fa-times {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.fa-times:hover {
+    color: #f00;
+}
